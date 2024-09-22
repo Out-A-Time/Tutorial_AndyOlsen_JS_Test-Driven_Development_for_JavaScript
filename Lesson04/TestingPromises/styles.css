@@ -1,22 +1,22 @@
 body {
-	font-family: 'segoe ui', tahoma, Arial, sans-serif;
+ font-family: "segoe ui", tahoma, Arial, sans-serif;
 }
-	
+
 #messageArea {
-	margin-top: 20px;
-	background-color: #3399FF;
-	color: white;
-	font-size: 16pt;
+ margin-top: 20px;
+ background-color: #3399ff;
+ color: white;
+ font-size: 16pt;
 }
 
 .info {
-	background-color: #3399FF;
+ background-color: #3399ff;
 }
 
 .resolved {
-	background-color: green;
+ background-color: green;
 }
 
 .rejected {
-	background-color: red;
+ background-color: red;
 }
